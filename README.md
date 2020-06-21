@@ -26,7 +26,7 @@ const utils = new Util(hexo, __dirname);
 [npm-image]: https://img.shields.io/npm/v/next-util?style=flat-square
 [lic-image]: https://img.shields.io/npm/l/next-util?style=flat-square
 
-[size-image]: https://img.shields.io/github/languages/code-size/theme-next/next-util?style=flat-square
+[size-image]: https://img.shields.io/github/languages/code-size/next-theme/next-util?style=flat-square
 [dm-image]: https://img.shields.io/npm/dm/next-util?style=flat-square
 [dt-image]: https://img.shields.io/npm/dt/next-util?style=flat-square
 
