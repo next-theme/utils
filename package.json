@@ -14,15 +14,15 @@
     "Hexo",
     "NexT"
   ],
-  "author": "",
+  "author": "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)",
   "license": "LGPL-3.0",
   "bugs": {
     "url": "https://github.com/next-theme/next-util/issues"
   },
   "homepage": "https://github.com/next-theme/next-util#readme",
   "dependencies": {
-    "js-yaml": "^3.13.1",
-    "lodash": "^4.17.15"
+    "js-yaml": "3.14.0",
+    "lodash": "4.17.19"
   },
   "devDependencies": {
     "eslint": "7.4.0",
