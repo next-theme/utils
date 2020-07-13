@@ -13,21 +13,21 @@ Utilities for NexT.
 [![dt-image]][npm-url]
 
 ```bash
-npm install next-util
+npm install @next-theme/utils
 ```
 
 ## Usage
 
 ```js
-const Util = require('next-util');
+const Util = require('@next-theme/utils');
 const utils = new Util(hexo, __dirname);
 ```
 
-[npm-image]: https://img.shields.io/npm/v/next-util?style=flat-square
-[lic-image]: https://img.shields.io/npm/l/next-util?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/@next-theme/utils?style=flat-square
+[lic-image]: https://img.shields.io/npm/l/@next-theme/utils?style=flat-square
 
-[size-image]: https://img.shields.io/github/languages/code-size/next-theme/next-util?style=flat-square
-[dm-image]: https://img.shields.io/npm/dm/next-util?style=flat-square
-[dt-image]: https://img.shields.io/npm/dt/next-util?style=flat-square
+[size-image]: https://img.shields.io/github/languages/code-size/next-theme/util?style=flat-square
+[dm-image]: https://img.shields.io/npm/dm/@next-theme/utils?style=flat-square
+[dt-image]: https://img.shields.io/npm/dt/@next-theme/utils?style=flat-square
 
-[npm-url]: https://www.npmjs.com/package/next-util
+[npm-url]: https://www.npmjs.com/package/@next-theme/utils
