@@ -2,7 +2,7 @@
 
 [![npm-image]][npm-url]
 [![lic-image]](LICENSE)
-[![Theme Version](https://img.shields.io/badge/NexT-v7.3.0+-blue?style=flat-square)](https://theme-next.org)
+[![Theme Version](https://img.shields.io/badge/NexT-v7.3.0+-blue?style=flat-square)](https://theme-next.js.org)
 
 Utilities for NexT.
 
