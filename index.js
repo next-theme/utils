@@ -20,7 +20,7 @@ class Util {
   }
 
   defaultConfigFile(key, file) {
-    const defaultConfig = file ? yaml.safeLoad(this.getFileContent(file)) : {};
+    const defaultConfig = file ? yaml.load(this.getFileContent(file)) : {};
     this.hexo.config[key] = merge(defaultConfig[key], this.hexo.theme.config[key], this.hexo.config[key]);
     return this.hexo.config[key];
   }
