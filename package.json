@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/next-theme/utils#readme",
   "dependencies": {
-    "js-yaml": "4.0.0",
-    "lodash": "4.17.21"
+    "hexo-util": "2.5.0",
+    "js-yaml": "4.0.0"
   },
   "devDependencies": {
     "@next-theme/eslint-config": "0.0.2",
