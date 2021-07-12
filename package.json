@@ -22,7 +22,7 @@
     "js-yaml": "4.1.0"
   },
   "devDependencies": {
-    "@next-theme/eslint-config": "0.0.2",
+    "@next-theme/eslint-config": "0.0.3",
     "eslint": "7.30.0"
   }
 }
