@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/next-theme/utils#readme",
   "dependencies": {
-    "hexo-util": "2.5.0",
+    "hexo-util": "2.7.0",
     "js-yaml": "4.1.0"
   },
   "devDependencies": {
