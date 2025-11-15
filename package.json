@@ -19,7 +19,7 @@
   "homepage": "https://github.com/next-theme/utils#readme",
   "dependencies": {
     "hexo-util": "4.0.0",
-    "js-yaml": "4.1.0"
+    "js-yaml": "4.1.1"
   },
   "devDependencies": {
     "@next-theme/eslint-config": "0.0.3",
